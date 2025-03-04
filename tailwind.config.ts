@@ -32,6 +32,9 @@ const config: Config = {
                     "100": "#F7F7F7",
                     DEFAULT: "#FFFFFF",
                 },
+                'theme-blue':{
+                    DEFAULT:"#152C5B"
+                },
             },
             fontFamily: {
                 "work-sans": ["var(--font-work-sans)"],
